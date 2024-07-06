@@ -18,5 +18,5 @@ This project is intended for educational purposes to demonstrate how to embed Yo
 
 ### Credits
 
-- Created by [Your Name]
+- Created by sukaran singh
 - Inspired by YouTube's embedding feature.
